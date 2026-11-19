@@ -364,4 +364,4 @@ reference (audits, future revisions); the sections above are authoritative.
   second key set to maintain indefinitely. Rejected: the SubDAO already acts as
   a 3-of-5 multisig on the Hub.
 - **Adopted:** the SubDAO stays denom admin and also holds LockVault's code
-  admin and `owner`. Trade-off: it retains mint rights on the Hub (see §7)
+  admin and `owner`. Trade-off: it retains mint rights on the Hub (see §7).
